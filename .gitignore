@@ -32,3 +32,6 @@ webroot/forum/files/*
 webroot/forum/images/avatars/gallery/*
 webroot/forum/images/avatars/upload/*
 webroot/forum/store/*
+
+# editorstuff
+.vscode
