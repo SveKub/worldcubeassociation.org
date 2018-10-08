@@ -66,8 +66,8 @@ en:
     "1": "Bäst av en"
     "2": "Bäst av två"
     "3": "Bäst av tre"
-    "a": "Bäst av fem"
-    "m": "Medel av tre"
+    "a": "Medelvärde av fem"
+    "m": "Medelvärde av tre"
     #context: short name alternative
     short:
       "1": "Ba1"
